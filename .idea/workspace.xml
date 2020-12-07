@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e011ee0a-acaf-4887-b0fa-f9c5c1957d28" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1kZ1SxTwXcHrPIyH45e5xDpiwhM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/sts/Models" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\projeto_poo\app\sts\Models" />
+      <recent name="C:\wamp64\www\projeto_poo\app\sts\Views" />
+      <recent name="C:\wamp64\www\projeto_poo\app\sts" />
+      <recent name="C:\wamp64\www\projeto_poo" />
+      <recent name="C:\wamp64\www\projeto_poo\assets" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e011ee0a-acaf-4887-b0fa-f9c5c1957d28" name="Default Changelist" comment="" />
+      <created>1605893302383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605893302383</updated>
+      <workItem from="1605893303410" duration="14497000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2130" y="184" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1607128313830">
+      <screen x="1600" y="0" width="1600" height="860" />
+    </state>
+    <state x="2130" y="184" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1607128313830" />
+    <state x="2176" y="152" key="NewPhpClassDialog" timestamp="1607126161576">
+      <screen x="1600" y="0" width="1600" height="860" />
+    </state>
+    <state x="2176" y="152" key="NewPhpClassDialog/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1607126161576" />
+    <state x="4249" y="156" key="NewPhpClassDialog/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@3200.0.1600.860" timestamp="1607122482630" />
+    <state x="2234" y="353" key="NewPhpFileDialog" timestamp="1607126178968">
+      <screen x="1600" y="0" width="1600" height="860" />
+    </state>
+    <state x="2234" y="353" key="NewPhpFileDialog/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1607126178968" />
+  </component>
+</project>

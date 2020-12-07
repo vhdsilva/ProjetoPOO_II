@@ -1,0 +1,22 @@
+{
+  "name": "vitorpaulo/mtf",
+  "description": "MTF",
+  "authors": [
+    {
+      "name": "Vitor Henrique D da Silva",
+      "email": "vitor.dias@faex.edu.br"
+    },
+    {
+      "name": "Paulo Henrique da Rosa",
+      "email": "paulo.rosa@faex.edu.br"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Core\\" : "core",
+      "Sts\\" : "app/sts"
+    }
+  },
+  "require": {
+  }
+}
