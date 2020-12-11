@@ -23,12 +23,7 @@
         </div>
 
         <div class="card-group">
-            <label for="">Nome</label>
-            <input type="nome" name="nome" id="" placeholder="Digite seu nome" required>
-        </div>
-
-        <div class="card-group">
-            <label for="">E-mail</label>
+            <label for="">Email</label>
             <input type="email" name="email" id="" placeholder="Digite seu e-mail" required>
         </div>
 
@@ -38,7 +33,8 @@
         </div>
 
         <div class="card-group">
-            <label for=""><input type="checkbox"> Lembre-me</label>
+            <label for="">Confirmar Senha</label>
+            <input type="password" name="senha" id="" placeholder="Confirmar senha" required>
         </div>
 
         <div class="card-group btn">
